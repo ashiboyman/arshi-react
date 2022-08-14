@@ -1,5 +1,6 @@
 import { movies } from "./data/movies";
 import Movie from "./movie";
+import './movies.css';
 const fetchMovieDaram = () => {
     return movies
 }
